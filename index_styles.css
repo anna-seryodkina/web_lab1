@@ -1,0 +1,33 @@
+body {
+    background-color: #11387C;
+    background-image: url('./blue-marble.jpg');
+}
+
+a {
+    text-decoration: none;
+    color: rgb(17, 17, 138);
+    padding: 15px;
+    opacity: 100%;
+    font-size: 32px;
+    font-family: Century, sans-serif;
+}
+
+#menu {
+    background-color: white;
+    height: 55px;
+    text-align: left;
+    opacity: 95%;
+}
+
+#main-block {
+    font-family: Century, sans-serif;
+    color: black;
+    background-color:white;
+    opacity: 70%;
+    height: 450px;
+    text-indent: 10px;
+}
+
+ul, li {
+    font-size: 20px;
+}

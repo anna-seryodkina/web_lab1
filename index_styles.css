@@ -1,9 +1,9 @@
 body {
     background-color: #11387C;
-    background-image: url('./blue-marble.jpg');
+    background-image: url('./data/blue-marble.jpg');
 }
 
-a {
+#menu-a {
     text-decoration: none;
     color: rgb(17, 17, 138);
     padding: 15px;
@@ -14,18 +14,19 @@ a {
 
 #menu {
     background-color: white;
-    height: 55px;
+    height: 50px;
     text-align: left;
     opacity: 95%;
+    padding-top: 10px;
 }
 
 #main-block {
     font-family: Century, sans-serif;
     color: black;
     background-color:white;
-    opacity: 70%;
+    opacity: 75%;
     height: 450px;
-    text-indent: 10px;
+    text-indent: 20px;
 }
 
 ul, li {

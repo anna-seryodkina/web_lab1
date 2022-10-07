@@ -1,5 +1,4 @@
 body {
-    background-color: #11387C;
     background-image: url('./data/bg2.jpg');
     margin-top: 20px;
 }
@@ -15,7 +14,6 @@ body {
 #menu {
     height: 50px;
     text-align: left;
-    margin-inline: 0px;
 }
 
 #main-block {
@@ -32,7 +30,7 @@ body {
     margin-top: 10px;
 }
 
-ul, li {
+ul, li, p {
     font-size: 22px;
     padding-top: 10px;
     padding-bottom: 10px;
